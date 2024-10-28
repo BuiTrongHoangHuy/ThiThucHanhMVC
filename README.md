@@ -1,4 +1,3 @@
-# ThiThucHanhMVC
 # Để đăng nhập vào trang Admin
 - Nhấn vào nút login ở trang Home
 - Đăng nhập tài khoản
